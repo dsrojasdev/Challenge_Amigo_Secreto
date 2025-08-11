@@ -11,46 +11,48 @@ Añadir participantes: Introduce nombres de amigos y agrégalos a la lista.
 
 Validación de entradas:
 
-No se permite dejar el campo vacío.
+* No se permite dejar el campo vacío.
 
-No se permiten números en los nombres.
+* No se permiten números en los nombres.
 
-Sorteo sin repetición: Cada ganador es único hasta que todos hayan sido seleccionados.
+* Sorteo sin repetición: Cada ganador es único hasta que todos hayan sido seleccionados.
 
-Interfaz adaptativa: Diseño responsive optimizado para móviles y escritorio.
+* Interfaz adaptativa: Diseño responsive optimizado para móviles y escritorio.
 
-Estilo moderno: Uso de tipografías y colores personalizados.
+* Estilo moderno: Uso de tipografías y colores personalizados.
 
 🛠️ Tecnologías utilizadas
 
-HTML5 → Estructura de la aplicación.
+* HTML5 → Estructura de la aplicación.
 
-CSS3 → Estilos y diseño responsive.
+* CSS3 → Estilos y diseño responsive.
 
-JavaScript (Vanilla) → Lógica del sorteo y validación.
+* JavaScript (Vanilla) → Lógica del sorteo y validación.
 
-Google Fonts → Tipografías Inter y Merriweather.
+* Google Fonts → Tipografías Inter y Merriweather.
 
 📋 Uso
-Abrir el proyecto en tu navegador desde index.html.
 
-Escribir un nombre en el campo de texto.
+- Abrir el proyecto en tu navegador desde index.html.
 
-Pulsar "Añadir" para agregarlo a la lista.
+- Escribir un nombre en el campo de texto.
 
-Cuando tengas varios amigos agregados, presiona "Sortear amigo" para elegir un ganador aleatorio.
+- Pulsar "Añadir" para agregarlo a la lista.
 
-Repite el sorteo hasta que todos hayan sido seleccionados.
+- Cuando tengas varios amigos agregados, presiona "Sortear amigo" para elegir un ganador aleatorio.
+
+- Repite el sorteo hasta que todos hayan sido seleccionados.
 
 💡 Ejemplo de funcionamiento
-Agregar: Juan, Ana, Carlos
 
-Sorteo:
+- Agregar: Juan, Ana, Carlos
 
-1º: Carlos
+- Sorteo:
 
-2º: Ana
+- 1º: Carlos
 
-3º: Juan
+- 2º: Ana
 
-Luego: "Ya no hay más amigos..."
+- 3º: Juan
+
+- Luego: "Ya no hay más amigos..."
